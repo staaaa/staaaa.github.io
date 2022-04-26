@@ -1,0 +1,117 @@
+.text{
+    position:absolute;
+    z-index:1;
+    color:white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.t1{
+    top:25vh;
+    left:5vw;
+    min-width:432px;
+    min-height:430px;
+    width:30vw;
+    height:30vw;
+    border-radius:25%;
+}
+.t1 .text-header{
+    margin-left:25%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-size:3vw;
+}
+.t1 .text-main{
+    margin-left:5%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo', sans-serif;
+    font-size:1.5vw;
+}
+@media only screen and (max-width: 700px) {
+    .m1, .m2, .m3{
+        font-size:20px !important;
+    }
+    .text-header {
+        font-size:25px !important;
+    }
+    .text-subheader{
+        font-size:20px !important;
+    }
+    .text-main{
+        font-size:20px !important;
+    }
+    .text{
+        left:0;
+    }
+    .image{
+        display:none;
+    }
+  }
+.t2{
+    top:120vh;
+    right:20vw;
+    min-width:432px;
+    min-height:430px;
+    width:60vw;
+    height:40vw;
+    border-radius:35%;
+}
+.t2 .text-header{
+    margin-left:35%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-size:3vw;
+}
+.t2 .text-subheader{
+    margin-left:18%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo', sans-serif;
+    font-size:2vw;
+}
+.t2 .text-main{
+    margin-left:5%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo', sans-serif;
+    font-size:1.5vw;
+}
+.t3{
+    top:210vh;
+    right:20vw;
+    min-width:432px;
+    min-height:430px;
+    width:60vw;
+    height:37vw;
+    border-radius:35%;
+}
+.t3 .text-header{
+    margin-left:37%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo 2', sans-serif;
+    font-size:3vw;
+}
+.t3 .text-subheader{
+    margin-left:26%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo', sans-serif;
+    font-size:2vw;
+}
+.t3 .text-main{
+    margin-left:5%;
+    background: none;
+    text-decoration: none;
+    font-family: 'Exo', sans-serif;
+    font-size:1.5vw;
+}
+.t4{
+    position:absolute;
+    top:270vh;
+    right:0;
+    bottom:0;
+    width:1vw;
+    height:10vw;
+}
