@@ -1,12 +1,9 @@
 .image{
     position:absolute;
-    top:22.5vh;
+    top:15vh;
     right:5vw;
     z-index:1;
-    min-width:756px;
-    min-height:563px;
-    width:45vw;
-    height:32.5vw;
+    width:55vw;
 }
 .jpeg{
     width:100%;
