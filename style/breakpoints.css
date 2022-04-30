@@ -3,7 +3,7 @@
         font-size:100% !important;
     }
     .image{
-        min-width:90vw;
+        min-width:75vw;
     }
     .image img{
         width:100%;
@@ -11,6 +11,10 @@
     }
     li, a{
         font-size:18px;
+    }
+    .t1, .t2, .t3{
+        min-width: 300px !important;
+        min-height: 350px !important;
     }
     .t2{
         top:160vh !important;
