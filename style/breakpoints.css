@@ -4,6 +4,7 @@
     }
     .image{
         min-width:75vw;
+        top:120vh !important;
     }
     .image img{
         width:100%;
@@ -20,10 +21,10 @@
         top:160vh !important;
     }
     .t3{
-        top:230vh !important;
+        top:250vh !important;
     }
     .t4{
-        top:290vh !important;
+        top:320vh !important;
     }
 }
 @media only screen and (max-width: 1350px) {
