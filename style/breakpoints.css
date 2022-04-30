@@ -14,7 +14,7 @@
     }
     .t1, .t2, .t3{
         min-width: 300px !important;
-        min-height: 350px !important;
+        min-height: 550px !important;
     }
     .t2{
         top:160vh !important;
